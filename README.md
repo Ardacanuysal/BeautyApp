@@ -3,7 +3,7 @@
   <h1 align="center">Designs</h1>
 </div>
 <div align="center">
-    <img src="https://github.com/Ardacanuysal/BeautyApp/blob/main/src/assets/images/beauty-app.png" width="40%" 
+    <img src="https://github.com/Ardacanuysal/BeautyApp/blob/main/src/assets/images/beauty-app.png" width="60%" 
      /> 
 </div>
 
