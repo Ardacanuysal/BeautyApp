@@ -9,7 +9,7 @@ import {
 import React from 'react';
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
-const app3 = () => {
+const NotificationPage = () => {
   return (
     <View style={{backgroundColor: '#ff8a00', height: windowHeight}}>
       <View
@@ -351,6 +351,6 @@ const app3 = () => {
   );
 };
 
-export default app3;
+export default NotificationPage;
 
 const styles = StyleSheet.create({});

@@ -10,7 +10,7 @@ import {
 import React from 'react';
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
-const app1 = () => {
+const MainPage = () => {
   return (
     <View style={{backgroundColor: '#ff8a00', height: windowHeight}}>
       <View
@@ -345,6 +345,6 @@ const app1 = () => {
   );
 };
 
-export default app1;
+export default MainPage;
 
 const styles = StyleSheet.create({});
