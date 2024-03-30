@@ -9,7 +9,7 @@ import {
 import React from 'react';
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
-const NotificationPage = () => {
+const CategoriesPage = () => {
   return (
     <View style={{backgroundColor: '#ff8a00', height: windowHeight}}>
       <View
@@ -351,6 +351,6 @@ const NotificationPage = () => {
   );
 };
 
-export default NotificationPage;
+export default CategoriesPage;
 
 const styles = StyleSheet.create({});
